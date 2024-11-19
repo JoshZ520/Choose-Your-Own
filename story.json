@@ -1,0 +1,209 @@
+{
+  "Page1": {
+    "Text": "You slowly drift awake, feeling the gentle warmth of sunlight spilling through the curtains and onto your face. Lying comfortably in bed, you take a deep breath, savoring the calm and quiet of the morning. Your eyes wander across the room, tracing the familiar lines of the ceiling as your mind clears.\n\nA thought pops into your head: today is completely yours. No obligations, no pressing tasks—just a rare, unbroken stretch of time waiting for you to fill it. Reaching for your phone on the nightstand, you see that it’s your day off, and the world outside seems to echo your freedom, wrapped in a perfect early morning stillness.\n\nYou sit up, stretching out the last bits of sleepiness as you glance out the window. The sun is rising higher now, casting a soft glow over everything, and you feel a spark of excitement as you consider the possibilities for the day. You could stay here, savoring the peace and quiet, or head outside and see what adventures await. Maybe you’ll call up a friend, head to your favorite café, or finally explore that part of the city you've been meaning to visit.\n\nOr perhaps today’s the day to try a new hobby, get lost in a book, or embark on a spontaneous journey without any plans.A grin spreads across your face as you realize that, for once, there’s no rush, no expectations—just the thrill of having the day all to yourself. With a whole world of choices ahead of you, the only question left is: where will you start?",
+    "Options": [
+      {
+        "Text": "Return to bed and enjoy a bit more rest (p10)",
+        "Page": "Page10"
+      },
+      {
+        "Text": "Step outside and start the day with a new adventure (p2)",
+        "Page": "Page2"
+      },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/morning-bedroom.png"
+  },
+  "Page2": {
+    "Text": "You step outside and onto the quiet street, the morning air crisp and filled with possibilities.\n\n To the north, you can see the familiar sign of the little café you visit from time to time. The aroma of coffee and freshly baked pastries seems to drift on the air, inviting you to start the day with something warm and comforting.\n\n To the west, however, the path is less certain. \n\nShadows linger beneath the trees, and you’ve heard stories of strange encounters from people who ventured that way—an adventure waiting to happen, if you're feeling bold enough.And then, of course, there's the street itself. The cars rush by with a rhythmic hum, their headlights casting fleeting glances your way. A step in that direction is like inviting fate to take its course, a risky thrill that makes your heart race just to consider. With so many directions before you, the choice is yours: Where will you go?",
+    "Options": [
+      { "Text": "If you go North- p3", "Page": "Page3" },
+      { "Text": "If you go West - p4", "Page": "Page4" },
+      { "Text": "Walk into the street - p5", "Page": "Page5" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page3": {
+    "Text": "You stroll down the street, the aroma of freshly brewed coffee and warm pastries growing stronger with each step. The café comes into view, its cozy interior glowing softly through the windows, inviting you in from the cool air outside. You pause at the door, catching snippets of laughter and the gentle clink of cups from within. The choice is yours—do you step inside and see what awaits, or continue your journey elsewhere?",
+    "Options": [
+      { "Text": "Yes, Go inside - p6", "Page": "Page6" },
+      { "Text": "No, Keep walking - p7", "Page": "Page7" },
+      {
+        "Text": "Made a mistake? Want to start over, here you go.(p1)",
+        "Page": "Page1"
+      }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page4": {
+    "Text": "You head west, the air growing quieter with each step as the bustle of the main street fades behind you. Along the sidewalk, something unusual catches your eye—a blue police phone box, standing out sharply against the dull tones of the surrounding buildings. Its paint is weathered, yet it seems oddly out of place, as though it doesn't quite belong here. A faint hum seems to emanate from it, barely audible but unmistakably there. You step closer, curiosity pulling you in. The door beckons. Do you reach out and open it, or leave the mystery untouched?",
+    "Options": [
+      { "Text": "Open the door and look inside - p8", "Page": "Page8" },
+      { "Text": "Walk past - p9", "Page": "Page9" },
+      {
+        "Text": "Made a mistake? Want to start over, here you go.(p1)",
+        "Page": "Page1"
+      }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page5": {
+    "Text": "Defying all odds, you weave through the chaos of a busy street, cars honking and tires screeching as you somehow make it to the other side unscathed. Ahead of you stands an imposing building, its tall, weathered facade casting long shadows in the fading light. The door is slightly ajar, creaking softly as the wind nudges it. A faint glow spills out from inside, accompanied by an almost imperceptible sound—footsteps? Voices? Something else? The building seems to be waiting, watching. Do you push the door open and step inside, or turn away and leave its secrets undiscovered?",
+    "Options": [
+      { "Text": "Yes, Go inside - p11", "Page": "Page11" },
+      { "Text": "No, Keep standing there - p12", "Page": "Page12" },
+      {
+        "Text": "Made a mistake? Want to start over, here you go.(p1)",
+        "Page": "Page1"
+      }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page6": {
+    "Text": "You sip the drink, and an overwhelming, unfamiliar sensation takes over your body. The world around you blurs, and your vision fades. The café, once warm and inviting, becomes distant—its sounds, its sights, slipping through your grasp. Soon, there’s nothing but darkness. But as your last breath escapes, you feel a strange pull—a faint tug at your consciousness. It’s not quite an end, but a transition.\n\nYou’re no longer in your body, but you’re not sure where you are either. A shadowy figure looms before you, and a soft voice echoes through the void: 'Are you ready to move on, or is there something unfinished you need to do?'",
+    "Options": [
+      { "Text": "Go with the shadowy figure (p14)", "Page": "Page14" },
+      {
+        "Text": "Refuse to go with the figure and stay put (p15)",
+        "Page": "Page15"
+      },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page7": {
+    "Text": "You decide against entering the café and continue your walk. Just as you're about to cross the street, you notice a flyer pinned to a lamppost. There are ads for local events —a secret concert or a treasure hunt happening later today. Those are things you’ve always wanted to try but never had the time for. This could be your chance to experience something new. Do you take the opportunity and dive in, or continue your journey elsewhere?",
+    "Options": [
+      { "Text": "Decide to go to the Concert (p16)", "Page": "Page16" },
+      { "Text": "Decide to go to the teasure hunt (p17)", "Page": "Page17" },
+      { "Text": "Actually I do want to go to the café", "Page": "Page6" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page8": {
+    "Text": "You hesitate for a moment before reaching out to grasp the handle of the door. It creaks open, revealing… a normal police phone box. There’s nothing strange about it at all—just an old, weathered blue box standing on the sidewalk. Its paint is chipped, its edges worn with age, but nothing extraordinary. The interior is dim, with a small bench and a couple of buttons on the control panel. A faint smell of dust lingers in the air.\n\nFor a moment, you wonder if you’ve made a mistake, if this was all just your imagination running wild. But then, a strange feeling stirs within you. There's something almost… too normal about it. Could this be some kind of test? Or perhaps the calm before the storm?",
+    "Options": [
+      {
+        "Text": "Step inside the box and wait to see if anything happens (p18)",
+        "Page": "Page18"
+      },
+      { "Text": "Close the door and keep walking (p9)", "Page": "Page9" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page9": {
+    "Text": "You walk past the blue police phone box, your steps steady, but something feels off. A low, mechanical hum fills the air, barely audible at first, but growing louder with each passing second. You stop, the hairs on the back of your neck prickling, and turn to look at the box. To your shock, the once-solid structure seems to shimmer, as if reality itself is bending around it.\n\nThe box begins to fade, slowly at first, as if dissolving into thin air. Its edges blur, the colors melting into the background, until all that’s left is an empty space where it once stood. The strange noise, a mix of whirring and static, pulses in the air before vanishing altogether.",
+    "Options": [
+      {
+        "Text": "You are frozen in place by the sight of this (p12)",
+        "Page": "Page12"
+      },
+      {
+        "Text": "You keep on walking, slighty unnerved by what you just saw (p19)",
+        "Page": "Page19"
+      },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page10": {
+    "Text": "What?! I put in all this work to give you a ton of options and you are just throwing it all away!! Just hit the button to try again and don't come back here again!",
+    "Options": [
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "I want to keep sleeping", "Page": "Page13" }
+    ],
+    "Background": "pictures/morning-bedroom.png"
+  },
+  "Page11": {
+    "Text": "You walk inside the mysterious building and find 3 red and white ball shaped things on the ground.",
+    "Options": [
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page12": {
+    "Text": "You stand there marveling at the sight and a car comes onto the sidewalk and hits you",
+    "Options": [
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page13": {
+    "Text": "Noooo, You can't just sleep all day! I won't allow it.",
+    "Options": [
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" },
+      { "Text": "Start over from the beginning (p1)", "Page": "Page1" }
+    ],
+    "Background": "pictures/morning-bedroom.png"
+  },
+  "Page14": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page15": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page16": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page17": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page18": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page19": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page1" },
+      { "Text": "PlaceHolder", "Page": "Page" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  },
+  "Page20": {
+    "Text": "PlaceHolder",
+    "Options": [
+      { "Text": "PlaceHolder", "Page": "Page" },
+      { "Text": "PlaceHolder", "Page": "Page" },
+      { "Text": "PlaceHolder", "Page": "Page1" }
+    ],
+    "Background": "pictures/modern-city.webp"
+  }
+}

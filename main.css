@@ -1,0 +1,59 @@
+:root {
+  --background-image: url("pictures/morning-bedroom.png");
+}
+
+body {
+  background-color: antiquewhite;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#heading {
+  margin: 0;
+  font-size: 5em;
+  text-align: center;
+}
+
+.story {
+  background-color: white;
+  flex-direction: column;
+  margin-left: 33%;
+  width: 30%;
+  padding: 20px;
+  text-align: center;
+  border: #333 3px solid;
+}
+.storyContainer {
+  background: var(--background-image) no-repeat top;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+#Option1 {
+  text-align: center;
+}
+
+#Option2 {
+  text-align: center;
+}
+
+#page {
+  text-align: center;
+}
+
+#buttonholder {
+  height: 50px;
+  gap: 250px;
+  margin: auto;
+}
+
+.options {
+  background-color: darkseagreen;
+  align-self: center;
+  border: 5px solid black;
+  max-width: 100%;
+  width: 75%;
+}
